@@ -1,0 +1,14 @@
+{
+  "name": "@hakohl/study-packages",
+  "version": "1.0.0",
+  "description": "package for learning publishing",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "harald",
+  "license": "ISC",
+  "publishConfig": {
+    "@hakohl:registry": "https://npm.pkg.github.com"
+  }
+}
