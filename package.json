@@ -10,5 +10,8 @@
   "license": "ISC",
   "publishConfig": {
     "@hakohl:registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "@hakohl/study-packages": "^1.0.0"
   }
 }
